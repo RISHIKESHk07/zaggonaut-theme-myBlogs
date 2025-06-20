@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 defineConfig(
   {
     site: 'https://RISHIKESHk07.github.io',
-    base: 'myBlog'
+    base: '/zaggonaut-theme-myBlogs'
   }
 )
 
