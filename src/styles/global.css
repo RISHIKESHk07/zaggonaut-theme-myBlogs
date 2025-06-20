@@ -1,7 +1,11 @@
-@import "tailwindcss";
-@plugin "@tailwindcss/typography";
-
 @variant dark (&:where(.dark, .dark *));
+
+/* src/styles/global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 
 @font-face {
   font-family: "Literata Variable";
