@@ -36,8 +36,8 @@ export const GLOBAL = {
 
   // Menu items
   menu: {
-    home: "/myBlogs",
-    projects: "/myBlogs/projects",
-    blog: "/myBlogs/blog",
+    home: "/zaggonaut-theme-myBlogs/",
+    projects: "/zaggonaut-theme-myBlogs/projects",
+    blog: "/zaggonaut-theme-myBlogs/blog",
   }
 };
