@@ -16,7 +16,7 @@ export const featuredProjects = (
         liveUrl: data.frontmatter.liveUrl,
         featured: data.frontmatter.featured,
         timestamp: data.frontmatter.timestamp,
-        filename: `/projects/${data.frontmatter.filename}`,
+        filename: `projects/${data.frontmatter.filename}`,
       };
     },
   )
@@ -42,7 +42,7 @@ export const featuredArticles = (
         time: data.frontmatter.time,
         featured: data.frontmatter.featured,
         timestamp: data.frontmatter.timestamp,
-        filename: `/blog/${data.frontmatter.filename}`,
+        filename: `blog/${data.frontmatter.filename}`,
       };
     },
   )

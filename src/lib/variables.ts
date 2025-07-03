@@ -3,7 +3,7 @@
 export const GLOBAL = {
   // Site metadata
   username: "rishikesh",
-  rootUrl: "",
+  rootUrl: "/zaggonaut-theme-myBlogs/",
   shortDescription: "A blog website for my daily my stupidness ........",
   longDescription: "A daily progress update log for documentation & improving my focus on stuff in general , double downs as my portfolio websiye , hail all simple websites like these ....",
 
@@ -32,7 +32,7 @@ export const GLOBAL = {
   projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
 
   // Profile image
-  profileImage: "/myBlogs/../../public/gitubpp.png",
+  profileImage: "../../public/gitubpp.png",
 
   // Menu items
   menu: {
