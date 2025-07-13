@@ -15,7 +15,7 @@ export const articles = (
         time: data.frontmatter.time,
         featured: data.frontmatter.featured,
         timestamp: data.frontmatter.timestamp,
-        filename: `blog/${data.frontmatter.filename}`,
+        filename: `/zaggonaut-theme-myBlogs//blog/${data.frontmatter.filename}`,
       };
     },
   )
@@ -40,7 +40,7 @@ export const projects = (
         liveUrl: data.frontmatter.liveUrl,
         featured: data.frontmatter.featured,
         timestamp: data.frontmatter.timestamp,
-        filename: `projects/${data.frontmatter.filename}`,
+        filename: `/zaggonaut-theme-myBlogs/projects/${data.frontmatter.filename}`,
       };
     },
   )
