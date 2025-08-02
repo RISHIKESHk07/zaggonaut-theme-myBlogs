@@ -32,7 +32,7 @@ export const GLOBAL = {
   projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
 
   // Profile image
-  profileImage: "docs/assets/gitubpp.png",
+  profileImage: "public/githubb.png",
 
   // Menu items
   menu: {
