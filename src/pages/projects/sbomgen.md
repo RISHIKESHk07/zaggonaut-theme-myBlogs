@@ -4,7 +4,7 @@ layout: ../../layouts/ProjectLayout.astro
 title: SBOMGen
 description: A Python package and web app for SBOM generation and vulnerability scanning, supporting 13+ ecosystems.
 tags: ["python", "react", "nodejs", "mysql", "github-actions", "owasp", "sbom", "devsecops"]
-githubUrl: https://github.com/yourusername/SBOMGen  # Replace with actual
+githubUrl: 
 timestamp: 2024-05-10T00:00:00+00:00
 featured: true
 filename: sbomgen

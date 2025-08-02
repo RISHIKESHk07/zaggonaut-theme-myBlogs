@@ -4,7 +4,7 @@ layout: ../../layouts/ProjectLayout.astro
 title: iMessage
 description: A real-time chat application built using GraphQL, Prisma, MongoDB, and Next.js.
 tags: ["next.js", "react", "graphql", "prisma", "typescript", "mongodb", "next-auth"]
-githubUrl: https://github.com/yourusername/imessage-clone  # Replace with actual
+githubUrl: 
 timestamp: 2024-06-15T00:00:00+00:00
 featured: true
 filename: imessage-clone

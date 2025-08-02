@@ -3,7 +3,7 @@ layout: ../../layouts/ProjectLayout.astro
 title: Pinggy.io (Frontend Internship)
 description: Worked on Electron.js desktop GUI and React dashboards using Mantine, SQLite, and PostgreSQL.
 tags: ["next.js", "react", "mantine", "electron", "sqlite", "postgresql", "internship"]
-githubUrl: https://github.com/pinggy  # Replace with the actual repo link if available
+githubUrl: 
 timestamp: 2024-07-31T00:00:00+00:00
 featured: true
 filename: pinggy-internship
