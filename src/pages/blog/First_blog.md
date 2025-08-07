@@ -15,9 +15,9 @@ and really wanted to impl stuff like that , but as a dumb 4th yr kid with exp in
 Not sure where this will take me but i want to progress as a dev , and hoping this 6 months of constant work will help , ie. did write this for me only too keep me on this track that i really want to pursue , has for realty checks do give me some of them . I will constantly blog my work here , along with gate stuff , documenting stuff always will keep me serious , i suppose 
 
 ### STUFF I AM DOING:
-Building stuff in raw cpp (checkout my /CSERVER project on github , etc)
-Prep for gate (Using good books , will put out learnings hopefully)
-Try solving some qs (To get better impl .... CP-3 book , striver) ...  this feels unrealistic :<
+- Building stuff in raw cpp (checkout my /CSERVER project on github , etc)
+- Prep for gate (Using good books , will put out learnings hopefully)
+- Try solving some qs (To get better impl .... CP-3 book , striver) ...  this feels unrealistic :<
 
 
 ### CONCLUSION:
